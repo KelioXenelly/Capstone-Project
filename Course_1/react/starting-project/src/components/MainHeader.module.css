@@ -24,6 +24,7 @@
   background-color: #9c7eee;
   border: 1px solid #ece1fa;
   cursor: pointer;
+  text-decoration: none;
 }
 
 .button:hover,
